@@ -1,0 +1,5 @@
+cosine_sim.pkl
+data/*.csv
+*.zip
+__pycache__/
+.ipynb_checkpoints/
