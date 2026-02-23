@@ -106,7 +106,7 @@ Evaluated on a **held-out test set (20% of ratings, ~19,355 samples)**:
 ### Option B — Local Machine
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/movie-recommendation-system.git
+git clone https://github.com/AdamMusa76/movie-recommendation-system.git
 cd movie-recommendation-system
 
 # Install dependencies
